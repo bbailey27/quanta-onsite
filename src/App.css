@@ -1,0 +1,19 @@
+.ScheduleContainer-HeaderRow {
+  display: flex;
+  flex-direction: row;
+}
+
+.MonthHeaderContainer {
+  display: flex;
+  flex-direction: row;
+  overflow-x: scroll;
+}
+
+.MonthHeader {
+  min-width: 100px;
+}
+
+.LeftColumn {
+  min-width: fit-content;
+  padding: 12px;
+}
